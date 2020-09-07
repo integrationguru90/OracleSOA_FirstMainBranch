@@ -1,1 +1,4 @@
-file one is updated by file 2 branch.
+File 1 is updated by file 1 branch
+=======
+file 1 is updated by file 2 branch.
+
