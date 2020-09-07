@@ -3,7 +3,7 @@
 <composite name="HelloDemo"
            revision="10.0"
            label="2019-11-10_20-10-06_280"
-           mode="active"
+           mode="inactive"
            state="on"
            xmlns="http://xmlns.oracle.com/sca/1.0"
            xmlns:xs="http://www.w3.org/2001/XMLSchema"
